@@ -38,7 +38,7 @@ NhiFlixster is an app that allows users to browse movies from the [The Movie Dat
 
 ### App Walkthough GIF
 
-<img src="NhiFlixster_Part1.mkv" width=250><br>
+<img src="NhiFlixster_Part1.gif" width=250><br>
 
 ### Notes
 Changing API to 29 instead of 30 makes the program works for some reason
