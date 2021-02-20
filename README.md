@@ -40,8 +40,10 @@ NhiFlixster is an app that allows users to browse movies from the [The Movie Dat
 
 <img src="NhiFlixster_Part1.gif" width=250><br>
 
+<img src="NhiFlixster_Part2.gif" width=250><br>
+
 ### Notes
-Changing API to 29 instead of 30 makes the program works for some reason
+Gif files are a bit slow
 
 ### Open-source libraries used
 
